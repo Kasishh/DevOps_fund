@@ -4,3 +4,4 @@ console.log('In progress learning JS');
 console.log(10 * 5);
 console.log(10 * 5);
 console.log("this is fun")
+console.log("this is fun")
