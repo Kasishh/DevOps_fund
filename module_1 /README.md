@@ -1,5 +1,5 @@
 ## DEVOPS PAMATI IESĀCĒJIEM
-### Mājas darbs -  Nr. 2 
+### Mājas darbs -  Nr. 2_v1
 ### Kaspars Gribusts
 ### _2022_
 ---
@@ -14,6 +14,7 @@
 ## **2.uzdevums Jāuzstada programmu git no vietnes - https://git-scm.com ievērojot jūsu operētāj sistēmas prasības**
 
 ![GIT --version](https://github.com/Kasishh/DevOps_fund/blob/main/module_1%20/images/Git_instaled.png?raw=true)
+
 
 ---
 
