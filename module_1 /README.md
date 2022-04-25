@@ -3,7 +3,7 @@
 ### Kaspars Gribusts
 ### _2022_
 ---
-# Uzdevumi 🚀🚀🚀
+# 🚀🚀🚀Uzdevumi 🚀🚀🚀
 
 ## **1.uzdevums - 1. Jāizveido jauns repozitorijs GitHub - kurš satur README.md failu**
 
