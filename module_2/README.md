@@ -1,1 +1,1 @@
-#DEVOPS PAMATI IESĀCĒJIEM
+aaaaa
